@@ -1,0 +1,13 @@
+.cardtext {
+  display: flex;
+  flex-direction: row;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+}
+.cardbutton {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
